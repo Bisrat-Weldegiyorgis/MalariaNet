@@ -1,0 +1,23 @@
+# Dataset
+Malaria dataset/
+yolo_dataset/
+
+# Training outputs
+runs/
+
+# Uploaded images
+uploads/
+static/results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store

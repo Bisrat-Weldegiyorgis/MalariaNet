@@ -1,0 +1,24 @@
+path: yolo_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Falciparum_Ring
+  1: Falciparum_Trophozoite
+  2: Falciparum_Schizont
+
+  3: Vivax_Ring
+  4: Vivax_Trophozoite
+  5: Vivax_Schizont
+  6: Vivax_Gametocyte
+
+  7: Malariae_Ring
+  8: Malariae_Trophozoite
+  9: Malariae_Schizont
+  10: Malariae_Gametocyte
+
+  11: Ovale_Ring
+  12: Ovale_Trophozoite
+  13: Ovale_Schizont
+  14: Ovale_Gametocyte
